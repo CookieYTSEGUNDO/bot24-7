@@ -1,5 +1,5 @@
 var mineflayer = require('mineflayer');
-var serverip = 'VPREMIER1LEAGUECRAFT.aternos.me'
+var serverip = 'svip'
 const { log, replPlugin } = require('mineflayer-repl');
 var options = {
     host: serverip,
